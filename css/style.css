@@ -1,5 +1,5 @@
 body, html {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Sanchez', serif;
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #656c6d;
@@ -34,7 +34,7 @@ p.intro {
 	font-size: 16px;
 	margin: 12px 0 0;
 	line-height: 24px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Sanchez', serif;
 }
 a {
 	color: #333;
@@ -543,7 +543,7 @@ ol.type li a:hover {
 label {
 	font-size: 12px;
 	font-weight: 400;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Sanchez', serif;
 	float: left;
 }
 #contact .form-control {
@@ -658,7 +658,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 }
 .intro .intro-text p {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Sanchez', serif;
 	font-size: 20px;
 	margin-bottom: 40px;
 	margin-top: 20px;
