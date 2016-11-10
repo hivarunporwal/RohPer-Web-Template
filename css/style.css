@@ -469,7 +469,7 @@ ol.type li a:hover {
 }
 .timeline>li .timeline-image h4 {
 	margin-top: 20px;
-	font-size: 14px;
+	font-size: 10px;
 	text-transform: uppercase;
 }
 .timeline>li.timeline-inverted>.timeline-panel {
